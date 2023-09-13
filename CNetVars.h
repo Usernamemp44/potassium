@@ -6,6 +6,7 @@
 
 #include "dt_recv2.h"
 #include <Windows.h>
+#include <string>
 
 //Credits to Altimor + F1SSI0N
 

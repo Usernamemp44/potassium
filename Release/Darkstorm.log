@@ -1,0 +1,21 @@
+﻿  Aimbot.cpp
+  AntiAntiAim.cpp
+  CBaseEntity.cpp
+  CDrawManager.cpp
+  Client.cpp
+  CMenu.cpp
+  CNetVars.cpp
+  DLLMain.cpp
+  ESP.cpp
+  Log.cpp
+  Misc.cpp
+  Panels.cpp
+  CSignature.cpp
+  Triggerbot.cpp
+  Util.cpp
+  VMTHooks.cpp
+  Generating code
+  Previous IPDB not found, fall back to full compilation.
+  All 506 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  Darkstorm.vcxproj -> C:\Users\danfa\Source\Repos\potassium\Release\potassium.dll
